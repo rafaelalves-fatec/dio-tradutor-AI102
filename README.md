@@ -1,2 +1,2 @@
 # dio-tradutor-AI102
-bootcamp AI-102
+Microsoft Certification Challenge #4 - AI 102
